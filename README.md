@@ -56,7 +56,7 @@ We evaluate our model on the [Montreal Archive of Sleep Studies (MASS) ](http://
 
 - Training
 
-  Run `run.py` with the command line parameters. By default, the model can be run with the following command:
+  Run `run.py` with the command line arguments. By default, the model can be run with the following command:
 
   ```
   CUDA_VISIBLE_DEVICES=0 python run.py
